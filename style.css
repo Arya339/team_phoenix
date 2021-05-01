@@ -1,0 +1,15 @@
+#slider {
+    margin-top: 60px;
+}
+#slider .item {
+    height: 400px;
+}
+#slide1 {
+    background: url(./wow.jpg) center no-repeat;
+}
+#slide2 {
+    background: url(./wow.jpg) center no-repeat;
+}
+#slide3 {
+    background: url(./wow.jpg) center no-repeat;
+}
